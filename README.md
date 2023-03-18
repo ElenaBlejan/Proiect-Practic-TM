@@ -1,5 +1,8 @@
-# Proiect-Practic-Testare Manuala
-## Revision History
+# Proiect 
+# OrangeHRM Project
+## Test Plan 
+
+### Revision History
 #### Test Title
 | Date  | Version    | Name    | Comments | 
 | :-----: | :---: | :---: | :-----: |
