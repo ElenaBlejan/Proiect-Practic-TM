@@ -38,3 +38,5 @@
 - Non-functional testing like stress, performance is beyond scope of this project.
 - No QA support for mobile application developed. Only web application will be tested.
 - Automation testing is beyond scope.
+
+Here are the link taste cases  [Test cases details](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/screen.jpg) 
