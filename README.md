@@ -5,3 +5,4 @@
 | :-----: | :---: | :---: | :-----: |
 | 11.03.2023 | v1.1   | Elena Blejan  | Test result for Functional Testing |
 | 18.03.2023 | v1.2  | Ioana Popescu| More details added for Implementation |
+| 25.03.2023 | v1.2| Maria Popescu | Test results for admin functional testing |
