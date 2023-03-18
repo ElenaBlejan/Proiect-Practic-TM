@@ -1,4 +1,4 @@
-# Proiect-Practic-TM
+# Proiect-Practic-Testare Manuala
 ## Revision History
 #### Test Title
 | Date  | Version    | Name    | Comments | 
