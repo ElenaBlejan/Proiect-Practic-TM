@@ -42,3 +42,9 @@
 Here are the link taste cases  [Test cases details](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/screen.jpg) 
 
 Link  [Another link ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf)
+
+#### Entry criteria: 
+- functional specifications defined 
+- roles needed for the project are allocated 
+- initial project risks were detected and mitigated  
+
