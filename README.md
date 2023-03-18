@@ -47,3 +47,4 @@ Here are the link taste cases  [Test cases details](https://github.com/ElenaBlej
 - roles needed for the project are allocated 
 - initial project risks were detected and mitigated  
 
+Link syntax <https://www.markdownguide.org>
