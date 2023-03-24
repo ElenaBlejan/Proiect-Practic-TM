@@ -1,9 +1,17 @@
-#  <h1 align="center">Proiect-Practic-Testare Manuala<h1>
+#  <h1 align="center"> Final Project for ITF Manual Testing Course <h1>
 # OrangeHRM Project
-## Test Plan 
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-### Revision History
-#### Test Title
+Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+
+Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
+
+Tools used: Jira
+
+
+
+
+
 | Date  | Version    | Name    | Comments | 
 | :-----: | :---: | :---: | :-----: |
 | 11.03.2023 | v1.1   | **Elena Blejan**  |*Draft Plan* |
