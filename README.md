@@ -64,3 +64,8 @@ Link syntax <https://www.markdownguide.org>
 
 
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/screen%20jira.JPG)
+
+
+
+Link catre pdf  [Test cases for user story x](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/TES-12.pdf)
+
