@@ -56,3 +56,11 @@ Here are the link taste cases  [Test cases details](https://github.com/ElenaBlej
 - initial project risks were detected and mitigated  
 
 Link syntax <https://www.markdownguide.org>
+
+
+
+
+
+
+
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/screen%20jira.JPG)
