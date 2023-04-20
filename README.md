@@ -12,19 +12,5 @@ Tools used: Jira
 
 # Functional specifications
 
-
-
-Link syntax <https://www.markdownguide.org>
-
-
-
-
-
-
-
-![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/screen%20jira.JPG)
-
-
-
-Link catre pdf  [Test cases for user story x](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/TES-12.pdf)
+The below Epic was created in JIRA and describes the functional specifications of the PIM module - Add Employee, Personal details module.
 
