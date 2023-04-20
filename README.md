@@ -6,7 +6,7 @@ Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/we
 
 Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
-This project will be split into 3 sections: Testing Section, API Testing, SQL section. 
+This project will be split into 3 sections: **Testing Section**, **API Testing**, **SQL section**. 
 
 Tools used: Jira
 
