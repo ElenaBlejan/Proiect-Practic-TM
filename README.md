@@ -60,6 +60,18 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 > - unavalability of the test environment
 > - short deadline of Zephyr Squad and Jira tools
 
-***Product risks***
+***Product risks:***
+> - validation constraints on the fields might be too restrictive to the end user 
 
+## 2.2 Test Analysis
 
+> - Analyze business requirements to make sure that we have all information for creating the test condition
+> - Write test conditions that will be tested out in test process.
+
+## 2.3 Test Design
+
+> - functional test cases will be created in Zephyr Squad
+> - GUI test cases will be created in Zephyr Squad
+> - API test cases will be created in Postman
+> - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
+ 
