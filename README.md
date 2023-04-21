@@ -78,9 +78,27 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 DE ADAUGAT SCREENSHOT CU TEST CASES JIRA!!!!!
  
 ## 2.4 Test Implementation
+
 The following elements are needed to be ready before the test execution phase begins:
-> - Test environment is up and running: [OrangeHRM Admin] (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+> - Test environment is up and running: (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 > - Access to the test environment is given: username Admin, pass: admin123
 > - Cycle summary was created 
 > - The test cases were added to the cycle summary
 > - Postman collections were created
+
+## 2.5  Test Execution
+
+> - Test cases are executed on the created Cycle summary
+> - Bug reports were created based on the failed test cases
+> - API test cases were executed
+> - Full regression testing is needed after the bugs are fixed
+
+## 2.6 Test Completion
+
+As the exit criteria were met and satisfied as mentioned in the 2.1 section, this feature is suggested to "Go Live" by the QA team.
+
+## 2.7 Test Monitoring and Control
+
+Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc.
+DE ADAUGAT SCREENSHOT CU RAPORTUL!!!
+
