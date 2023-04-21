@@ -2,7 +2,7 @@
 # OrangeHRM Project
 
 # 1.*Introduction* 
-This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, PIM Module, Submenu Add Employee, Employee list and Personal details. 
+This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, **PIM** module, Submenu Add Employee, Employee list and Personal details. 
 
 ## 1.1 Project Objective
 
@@ -40,4 +40,8 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 | QA Engineer | Elena Blejan | 
 | Senior QA Engineer | Diana Dumitru |
 
+**Entry criteria :**
+> - functional specification defined
+> - roles needed for the project are allocated
+> - initial project risks were detected and mitigated
 
