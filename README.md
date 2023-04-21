@@ -41,16 +41,16 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 | Senior QA Engineer | Diana Dumitru |
 
 **Entry criteria :**
-> - functional specification defined
-> - roles needed for the project are allocated
-> - initial project risks were detected and mitigated
+> - Functional specification defined
+> - Roles needed for the project are allocated
+> - Initial project risks were detected and mitigated
 
 **Exit criteria :**
-> - all test cases have been executed
-> - the number of unresolved bugs is insignificant or have low priority
-> - all resolved bugs have been re-tested and closed by the QA team
-> - deadline was reached
-> - no detected major risks remained un-mitigated
+> - All test cases have been executed
+> - The number of unresolved bugs is insignificant or have low priority
+> - All resolved bugs have been re-tested and closed by the QA team
+> - Deadline was reached
+> - No detected major risks remained un-mitigated
 
 **Risks:**
 
@@ -61,7 +61,7 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 > - short deadline of Zephyr Squad and Jira tools
 
 ***Product risks:***
-> - validation constraints on the fields might be too restrictive to the end user 
+> - validation constraints on the fields might be too restrictive to the end-user 
 
 ## 2.2 Test Analysis
 
@@ -70,10 +70,10 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 
 ## 2.3 Test Design
 
-> - functional test cases will be created in Zephyr Squad
+> - Functional test cases will be created in Zephyr Squad
 > - GUI test cases will be created in Zephyr Squad
 > - API test cases will be created in Postman
-> - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
+> - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
 
 DE ADAUGAT SCREENSHOT CU TEST CASES JIRA!!!!!
  
@@ -99,6 +99,27 @@ As the exit criteria were met and satisfied as mentioned in the 2.1 section, thi
 
 ## 2.7 Test Monitoring and Control
 
-Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc.
+Periodic reports were done to reflect the current status of the testing process.
 DE ADAUGAT SCREENSHOT CU RAPORTUL!!!
 
+# 3. *Test Deliverables*
+
+## 3.1 Test conditions
+DE adaugat screenshot jira!!!
+
+## 3.2 Test cases 
+De adaugat screenshots cu test cases!!!!!
+
+## 3.3 Daily test summary report
+DE adaugat screenshot
+
+## 3.4 Traceability matrix
+De adaugat screenshot Jira
+
+## 3.5 Test case results 
+de adaugat PDF cu test cases resulsts din jira
+
+## 3.6 Bugs report 
+DE adaugat raport bug
+
+## 3.7 Test completion report 
