@@ -14,3 +14,4 @@ Tools used: Jira
 
 The below Epic was created in JIRA and describes the functional specifications of the PIM module - Add Employee, Personal details module.
 
+# 1 Testing section
