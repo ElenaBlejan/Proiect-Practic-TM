@@ -32,3 +32,12 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 **Roles and responsabilities:**
 
 
+| ROLE  | NAME    |
+| :-----: | :---: | 
+| Software Developer | Loredana Alexe   | 
+| Product Owner | Iulia Oprescu  | 
+| Project Manager | Madalina Vladu | 
+| QA Engineer | Elena Blejan | 
+| Senior QA Engineer | Diana Dumitru |
+
+
