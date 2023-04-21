@@ -74,4 +74,13 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 > - GUI test cases will be created in Zephyr Squad
 > - API test cases will be created in Postman
 > - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
+
+DE ADAUGAT SCREENSHOT CU TEST CASES JIRA!!!!!
  
+## 2.4 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:
+> - Test environment is up and running: [OrangeHRM Admin] (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+> - Access to the test environment is given: username Admin, pass: admin123
+> - Cycle summary was created 
+> - The test cases were added to the cycle summary
+> - Postman collections were created
