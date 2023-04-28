@@ -65,29 +65,12 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 
 ## 2.2 Test Analysis
 
- The testing process will be executed based on the Business Requirements for the PIM module – Add Employee. The following test conditions were found:
+ The testing process will be executed based on the Business Requirements for the PIM module – Add Employee. The following *test conditions* were found:
+1. Verify that user can add an employee when no field was fill in
+2. Verify that user can add an employee when the mandatory  fields are filled
+3. Verify how many employees can be added
 
-• Check the mandatory field, first name and last name, in Personal Details section;
 
-• Check the optional field, Driver's License Number, in Personal Details section;
-
-• Check the data format in Personal Details section;
-
-• Check if future dates are allowed in Personal Details section;
-
-• Check if the radio buttons, Gender, can be selected in Personal Details section;
-
-• Check if any value from drop down fields in the form 'Nationality' can be selected in Personal Details section;
-
-• Check if any value from drop down fields in the form 'Blood tyoe' can be selected in Custom field section;
-
-• Check the maxim characters for all text fields in in Personal Details section;
-
-• Check if the user is allowed to add attachment in Attachament section;
-
-• Check if attachments can be added in Attachament section;
-
-• Check if added attachments can be deleted in Attachament section;
 
 ## 2.3 Test Design
 
