@@ -159,3 +159,4 @@ The Traceability Matrix was generated and can be found here: [Traceability Matri
 [Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf)
 
 ## 3.7 Test completion report 
+![Test Completion Report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Completion%20Report%201.png)
