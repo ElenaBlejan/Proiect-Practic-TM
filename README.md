@@ -2,7 +2,7 @@
 # OrangeHRM Project
 
 # 1.*Introduction* 
-This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, **PIM** module, Submenu Add Employee, Employee list and Personal details. 
+This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, **PIM** module, Submenu Add Employee -Personal details. 
 
 ## 1.1 Project Objective
 
@@ -17,7 +17,7 @@ Tools used: Jira
 
 ## 1.2 Functionalities in scope
 
-> - All features of PIM ( Submenu: Add Employee and Employee list ) module which were defined in software requirement specification need to be: Functional testing, GUI testing
+> - All features of PIM ( Submenu: Add Employee ) module which were defined in software requirement specification need to be: Functional testing, GUI testing
 
 DE ADAUGAT !!Screenshot jira cu user story details!!!
 
