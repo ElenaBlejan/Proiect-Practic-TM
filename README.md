@@ -19,7 +19,11 @@ Tools used: Jira
 
 > - All features of PIM ( Submenu: Add Employee ) module which were defined in software requirement specification need to be: Functional testing, GUI testing
 
-DE ADAUGAT !!Screenshot jira cu user story details!!!
+The below Story was created in JIRA and describes the functional specifications of the "Add Employee" module, for which the final project is performed upon.
+
+
+![](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/User%20story.PNG)
+
 
 ## 1.3 Functionalities and tests out of scope
 > - All OrangeHRM features except PIM - Add employee and Employee list modules.
