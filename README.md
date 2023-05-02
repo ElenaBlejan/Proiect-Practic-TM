@@ -137,7 +137,7 @@ de adaugat screen jira
 # 3. *Test Deliverables*
 
 ## 3.1 Test conditions
-DE adaugat screenshot jira!!!
+[Test conditions ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20conditions.pdf)
 
 ## 3.2 Test cases 
   [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf)
