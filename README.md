@@ -97,6 +97,8 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 29. Check that user can delete an attachment from attachment list from "Personal Details - Add attachment" section
 30. Check the functionality of  "Edit" button in "Personal Details - Add attachment" section
 31. Check that "Comment" field allows maxim 200 characters from "Personal Details - Add attachment" section
+32. Check that the field "Other ID" from "Personal Details " section accepts numbers
+33. Check that the field "Other ID" from "Personal Details " section accepts letters
 
 
 
@@ -107,7 +109,7 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 > - GUI test cases will be created in Zephyr Squad
 > - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
 
-DE ADAUGAT SCREENSHOT CU TEST CASES JIRA!!!!!
+
  
 ## 2.4 Test Implementation
 
@@ -130,7 +132,7 @@ As the exit criteria were met and satisfied as mentioned in the 2.1 section, thi
 ## 2.7 Test Monitoring and Control
 
 Periodic reports were done to reflect the current status of the testing process.
-DE ADAUGAT SCREENSHOT CU RAPORTUL!!!
+de adaugat screen jira
 
 # 3. *Test Deliverables*
 
