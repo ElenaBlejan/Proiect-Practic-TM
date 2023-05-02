@@ -140,7 +140,7 @@ de adaugat screen jira
 DE adaugat screenshot jira!!!
 
 ## 3.2 Test cases 
-De adaugat screenshots cu test cases!!!!!
+  [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf)
 
 ## 3.3 Daily test summary report
 DE adaugat screenshot
