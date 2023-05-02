@@ -19,7 +19,7 @@ Tools used: Jira
 
 > - All features of PIM ( Submenu: Add Employee ) module which were defined in software requirement specification need to be: Functional testing, GUI testing
 
-The below Story was created in JIRA and describes the functional specifications of the "Add Employee" module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the "Add Employee" section. 
 
 
 ![](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/User%20story.PNG)
