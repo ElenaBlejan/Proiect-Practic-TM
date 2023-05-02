@@ -105,7 +105,6 @@ DE ADAUGAT !!Screenshot jira cu user story details!!!
 
 > - Functional test cases will be created in Zephyr Squad
 > - GUI test cases will be created in Zephyr Squad
-> - API test cases will be created in Postman
 > - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
 
 DE ADAUGAT SCREENSHOT CU TEST CASES JIRA!!!!!
@@ -117,13 +116,11 @@ The following elements are needed to be ready before the test execution phase be
 > - Access to the test environment is given: username Admin, pass: admin123
 > - Cycle summary was created 
 > - The test cases were added to the cycle summary
-> - Postman collections were created
 
 ## 2.5  Test Execution
 
 > - Test cases are executed on the created Cycle summary
 > - Bug reports were created based on the failed test cases
-> - API test cases were executed
 > - Full regression testing is needed after the bugs are fixed
 
 ## 2.6 Test Completion
