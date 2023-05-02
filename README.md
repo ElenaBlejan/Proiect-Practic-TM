@@ -132,7 +132,10 @@ As the exit criteria were met and satisfied as mentioned in the 2.1 section, thi
 ## 2.7 Test Monitoring and Control
 
 Periodic reports were done to reflect the current status of the testing process.
-de adaugat screen jira
+
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Executions%20by%20Test%20Cycle.PNG)
+
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
 
 # 3. *Test Deliverables*
 
