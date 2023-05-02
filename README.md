@@ -135,7 +135,7 @@ Periodic reports were done to reflect the current status of the testing process.
 
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Executions%20by%20Test%20Cycle.PNG)
 
-![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
+
 
 # 3. *Test Deliverables*
 
@@ -149,12 +149,13 @@ Periodic reports were done to reflect the current status of the testing process.
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
 
 ## 3.4 Traceability matrix
-De adaugat screenshot Jira
+
+The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability_2_5_2023.xlsx)
 
 ## 3.5 Test case results 
-de adaugat PDF cu test cases resulsts din jira
+[Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf)
 
 ## 3.6 Bugs report 
-DE adaugat raport bug
+[Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf)
 
 ## 3.7 Test completion report 
