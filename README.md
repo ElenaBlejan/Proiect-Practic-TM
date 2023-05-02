@@ -135,7 +135,7 @@ Periodic reports were done to reflect the current status of the testing process.
 
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Executions%20by%20Test%20Cycle.PNG)
 
-
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20execution.PNG)
 
 # 3. *Test Deliverables*
 
