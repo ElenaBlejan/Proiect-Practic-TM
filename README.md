@@ -13,11 +13,11 @@ Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/we
 Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
 
-Tools used: Jira, PostMan, MySql
+Tools used: Jira
 
 ## 1.2 Functionalities in scope
 
-> - All features of PIM ( Submenu: Add Employee and Employee list ) module which were defined in software requirement specification need to be: Functional testing, GUI testing, API testing.
+> - All features of PIM ( Submenu: Add Employee and Employee list ) module which were defined in software requirement specification need to be: Functional testing, GUI testing
 
 DE ADAUGAT !!Screenshot jira cu user story details!!!
 
