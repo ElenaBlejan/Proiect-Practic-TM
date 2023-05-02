@@ -153,6 +153,7 @@ Periodic reports were done to reflect the current status of the testing process.
 The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability_2_5_2023.xlsx)
 
 ## 3.5 Test case results 
+ Test cases are executed on the created Cycle summary and the test cases results can be found here: 
 [Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf)
 
 ## 3.6 Bugs report 
