@@ -146,7 +146,7 @@ Periodic reports were done to reflect the current status of the testing process.
   [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf)
 
 ## 3.3 Daily test summary report
-DE adaugat screenshot
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
 
 ## 3.4 Traceability matrix
 De adaugat screenshot Jira
