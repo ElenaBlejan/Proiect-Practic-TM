@@ -13,7 +13,7 @@ Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/we
 Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
 
-Tools used: Jira
+Tools used: Jira and Zephyr Squad
 
 ## 1.2 Functionalities in scope
 
