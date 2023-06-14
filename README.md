@@ -150,6 +150,8 @@ Periodic reports were done to reflect the current status of the testing process.
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Executions%20by%20Test%20Cycle.PNG)
 
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20execution.PNG)
+ 
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
 
 # 3. *Test Deliverables*
 
@@ -159,22 +161,21 @@ Periodic reports were done to reflect the current status of the testing process.
 ## 3.2 Test cases 
   [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf) 
 
-## 3.3 Daily test summary report
-![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
 
-## 3.4 Traceability matrix
+
+## 3.3 Traceability matrix
 
 The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability.xlsx)
 
-## 3.5 Test case results 
+## 3.4 Test case results 
  Test cases are executed on the created Cycle summary and the test cases results can be found here: 
 [Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf) 
 
-## 3.6 Bugs report 
+## 3.5 Bugs report 
  Bugs have been created based on the failed tests. The list with bugs can be found here:
 [Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf) 
 
-## 3.7 Test completion report 
+## 3.6 Test completion report 
  A number of 34 test cases were planned for execution and all of them were executed. After execution there were found 8 bugs.
 
 ![Test Completion Report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Completion%20Report%201.png)
