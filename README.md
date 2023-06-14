@@ -172,7 +172,7 @@ Periodic reports were done to reflect the current status of the testing process.
 I created two stories which, according to the traceability matrix were covered in the following way: 6 tests for OP-3 and 28 tests
 for OP-2. Also the rate of defects of OP-2 was bigger (6 defects) than for OP-3 (2 defects) taking into account both the larger number of test cases that were created and executed and the process of defect clustering.
  
-The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability.xlsx)
+The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability.xlsx) 
  
 The Traceability Matrix short by story was generated and can be found here: [Traceability Matrix short by story] ()
  
