@@ -112,6 +112,8 @@ The below Story was created in JIRA and describes the functional specifications 
 > - Functional test cases will be created in Zephyr Squad
 > - GUI test cases will be created in Zephyr Squad
 > - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
+**Test cases:
+ ![Screen jira]()
 
 
  
