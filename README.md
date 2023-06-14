@@ -113,7 +113,7 @@ The below Story was created in JIRA and describes the functional specifications 
 > - GUI test cases will be created in Zephyr Squad
 > - The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis.
 **Test cases:
- ![Screen jira]()
+ ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%202.JPG)
 
 
  
