@@ -162,7 +162,7 @@ The Traceability Matrix was generated and can be found here: [Traceability Matri
 
 ## 3.6 Bugs report 
  Bugs have been created based on the failed tests. The list with bugs can be found here:
-[Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf)
+[Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf) 
 
 ## 3.7 Test completion report 
  A number of 34 test cases were planned for execution and all of them were executed. After execution there were found 8 bugs.
