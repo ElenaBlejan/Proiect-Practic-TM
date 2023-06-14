@@ -184,7 +184,8 @@ The Traceability Matrix short by story was generated and can be found here: [Tra
 [Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf) 
 
 ## 3.5 Bugs report 
- Bugs have been created based on the failed tests. The list with bugs can be found here:
+Bugs have been created based on the failed tests.A number of 8 defects were found, from which the priority is: 2 high and 6 medium. They were reported to the development team and were prioritised according to their importance in the following way: first the bugs with high priority and second the bugs with medium priority.  
+The list with bugs can be found here:
 [Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf) 
 
 ## 3.6 Test completion report 
