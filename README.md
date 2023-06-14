@@ -70,40 +70,11 @@ The below Story was created in JIRA and describes the functional specifications 
 ## 2.2 Test Analysis
 
  The testing process will be executed based on the Business Requirements for the PIM module – Add Employee. The following **test conditions** were found:
-1. Verify that user cannot add an employee when no field was fill in
  
-2.Verify that user can add an employee when the mandatory  fields are filled
-3. Verify how many employees can be added
-4. 
-5. 
-6. Check if all the fields presented in business requirements  from "Personal details" are present 
-7. Check the "First name" as required field by not filling any data in "Personal details" section
-8. Check the "Last name" as required field by not filling any data in "Personal details" section
-9. Verify that user can add a picture in "Add Employee" section
-10. Check the functionality of  "Save" button at "Personal details" section
-11. Verify that "Driver's License Number" from "Personal Details" section accept any type of letters and special characters 
-12. Verify that "License Expiry Date" accepts only the format yyyy-mm-dd in "Personal details" section 
-13. Check the dropdown list for Nationality to display a list containing values, in "Personal details" section
-14. Check the dropdown list for "Marital status" to display a list containing values, in "Personal details" section
-15. Verify if the user can select an option  from the dropdown list for "Marital status"  in "Personal details" section
-16. Verify if the user can select an option  from the dropdown list for "Nationality"  in "Personal details" section
-17. Verify that "Date of  Birth" accepts only the format yyyy-mm-dd in "Personal details" section
-18. Verify if "Date of Birth"  can't be set to future date in "Personal details" section
-19. Verify that only one value from "Gender" radio buttons can be selected in "Personal details" section
-20. Verify that "First Name" field accept over 30 characters in "Personal details" section
-21. Check that user can not fill with numbers at field "Military Service"
-22. Check the functionality of  "Smoker" field in "Personal details" section
-23. Verify the dropdown list for "Blood Type" to display a list containing values in "Personal details -Custom fields" section
-24. Verify if the user can select one option  from the dropdown list for "Blood Type"  in "Personal details - Custom fields" section
-25. Check the functionality of  "Save" button at "Personal details - Custom Fields" section
-26. Check that user can add one attachment in "Personal Details - Add Attachment" section
-27. Check that user can add one attachment larger than 1 MB in "Personal Details - Add Attachment" section
-28. Check if multiple uploads are allowed in "Personal Details - Add attachment" section
-29. Check that user can delete an attachment from attachment list from "Personal Details - Add attachment" section
-30. Check the functionality of  "Edit" button in "Personal Details - Add attachment" section
-31. Check that "Comment" field allows maxim 200 characters from "Personal Details - Add attachment" section
-32. Check that the field "Other ID" from "Personal Details " section accepts numbers
-33. Check that the field "Other ID" from "Personal Details " section accepts letters
+1. Verify that user cannot add an employee when no field was fill in
+2. Verify that user can add an employee when the mandatory  fields are filled
+ 
+
 
 
 
