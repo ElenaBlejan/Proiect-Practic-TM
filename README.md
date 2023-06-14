@@ -174,7 +174,7 @@ for OP-2. Also the rate of defects of OP-2 was bigger (6 defects) than for OP-3 
  
 The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability.xlsx) 
  
-The Traceability Matrix short by story was generated and can be found here: [Traceability Matrix short by story] ()
+The Traceability Matrix short by story was generated and can be found here: [Traceability Matrix short by story](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability%20by%20story.xlsx)
  
  
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Traceability%20Matrix%20screen.JPG) 
