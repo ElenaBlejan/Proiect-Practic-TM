@@ -177,7 +177,7 @@ The Traceability Matrix was generated and can be found here: [Traceability Matri
 The Traceability Matrix short by story was generated and can be found here: [Traceability Matrix short by story](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability%20by%20story.xlsx)
  
  
-![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Traceability%20Matrix%20screen.JPG) 
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Traceability%20Matrix%20screen.JPG)  
 
 ## 3.4 Test case results 
  Test cases are executed on the created Cycle summary and the test cases results can be found here: 
