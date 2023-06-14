@@ -147,7 +147,7 @@ Periodic reports were done to reflect the current status of the testing process.
 [Test conditions ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20condition.pdf) 
 
 ## 3.2 Test cases 
-  [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf)
+  [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf) 
 
 ## 3.3 Daily test summary report
 ![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Daily%20Test%20Execution%20Progress.PNG)
