@@ -71,10 +71,11 @@ The below Story was created in JIRA and describes the functional specifications 
 
  The testing process will be executed based on the Business Requirements for the PIM module – Add Employee. The following **test conditions** were found:
 1. Verify that user cannot add an employee when no field was fill in
+ 
 2.Verify that user can add an employee when the mandatory  fields are filled
-3. 
-4. Verify that user can add an employee when required fields "First Name" and "Last Name" are filled with numbers
-5. Verify that user can add an employee when required fields "First Name" and "Last Name" are filled with special characters
+3. Verify how many employees can be added
+4. 
+5. 
 6. Check if all the fields presented in business requirements  from "Personal details" are present 
 7. Check the "First name" as required field by not filling any data in "Personal details" section
 8. Check the "Last name" as required field by not filling any data in "Personal details" section
