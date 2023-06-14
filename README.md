@@ -158,7 +158,7 @@ The Traceability Matrix was generated and can be found here: [Traceability Matri
 
 ## 3.5 Test case results 
  Test cases are executed on the created Cycle summary and the test cases results can be found here: 
-[Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf)
+[Test cases results ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases%20results.pdf) 
 
 ## 3.6 Bugs report 
  Bugs have been created based on the failed tests. The list with bugs can be found here:
