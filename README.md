@@ -73,6 +73,9 @@ The below Story was created in JIRA and describes the functional specifications 
  
 1. Verify that user cannot add an employee when no field was fill in
 2. Verify that user can add an employee when the mandatory  fields are filled
+3. Verify how many employees can be added
+4. 
+
  
 
 
