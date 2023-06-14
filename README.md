@@ -169,7 +169,15 @@ Periodic reports were done to reflect the current status of the testing process.
 
 ## 3.3 Traceability matrix
 
+I created two stories which, according to the traceability matrix were covered in the following way: 6 tests for OP-3 and 25 tests
+for OP-2. Also the rate of defects of OP-2 was bigger (6 defects) than for OP-3 (2 defects) taking into account both the larger number of test cases that were created and executed and the process of defect clustering.
+ 
 The Traceability Matrix was generated and can be found here: [Traceability Matrix ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability.xlsx)
+ 
+The Traceability Matrix short by story was generated and can be found here: 
+ 
+ 
+![Screen jira](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Traceability%20Matrix%20screen.JPG)
 
 ## 3.4 Test case results 
  Test cases are executed on the created Cycle summary and the test cases results can be found here: 
