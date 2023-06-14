@@ -156,9 +156,13 @@ Periodic reports were done to reflect the current status of the testing process.
 # 3. *Test Deliverables*
 
 ## 3.1 Test conditions
+ 
+  Here you can find the list of test conditions that were created for this project:
 [Test conditions ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20condition.pdf) 
 
 ## 3.2 Test cases 
+ 
+  Here you can find the list of test cases that were created and executed for this project: 
   [Test cases ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20cases.pdf) 
 
 
