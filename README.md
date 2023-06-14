@@ -83,8 +83,28 @@ The below Story was created in JIRA and describes the functional specifications 
 10. Check the functionality of  "Save" button at "Personal details" section
 11. Verify that "Driver's License Number" from "Personal Details" section accepts any type of letters and special characters 
 12. Verify that "License Expiry Date" accepts the format yyyy-mm-dd in "Personal details" section 
-13.  Verify that "Nationality" dropdown contains all the expected values
-14. 
+13. Verify that "Nationality" dropdown contains all the expected values
+14. Verify that "Marital status" dropdown contains all the expected values
+15. Verify if the user can select an option  from the dropdown list for "Marital status"  in "Personal details" section
+16. Verify if the user can select an option  from the dropdown list for "Nationality"  in "Personal details" section
+17. Verify that "Date of  Birth" accepts the format yyyy-mm-dd in "Personal details" section
+18. Verify if "Date of Birth"  can't be set to future date in "Personal details" section
+19. Verify that only one value from "Gender" radio buttons can be selected in "Personal details" section
+20. Verify that "First Name" field does not accept over 30 characters in employee "Personal details" section
+21. Check that user cannot insert numbers in "Military service" field
+22. Check the functionality of  "Smoker" field in "Personal details" section
+23. Verify that "Blood Type" dropdown contains all the expected values
+24. Verify if the user can select one option  from the dropdown list for "Blood Type"  in "Personal details - Custom fields" section
+25. Check the functionality of  "Save" button at "Personal details - Custom Fields" section
+26. Check that user can add one attachment in "Personal Details - Add Attachment" section
+27. Check that user cannot add one attachment larger than 1 MB in "Personal Details - Add Attachment" section
+28. Check if multiple uploads are allowed in "Personal Details - Add attachment" section
+29. Check that user can delete an attachment from attachment list from "Personal Details - Add attachment" section
+30. Check the functionality of  "Edit" button in "Personal Details - Add attachment" section
+31. Check that "Comment" field allows maxim 200 characters from "Personal Details - Add attachment" section
+32. Check that "Add attachment" module in employee "Personal details" can be saved without filling in mandatory fields
+33. Check that the field "Other ID" from "Personal Details " section accepts numbers
+34. Check that the field "Other ID" from "Personal Details " section does not accept letters
 
  
 
