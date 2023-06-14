@@ -74,7 +74,17 @@ The below Story was created in JIRA and describes the functional specifications 
 1. Verify that user cannot add an employee when no field was fill in
 2. Verify that user can add an employee when the mandatory  fields are filled
 3. Verify how many employees can be added
-4. 
+4. Verify that user cannot add an employee when required fields "First Name" and "Last Name" are filled with numbers
+5. Verify that user cannot add an employee when required fields "First Name" and "Last Name" are filled with special characters
+6. Check if all the expected fields are available in employee "Personal Details" section
+7. Check the "First name" as required field by not filling any data in "Personal details" section
+8. Check the "Last name" as required field by not filling any data in "Personal details" section
+9. Verify that user can add a picture in "Add Employee" section
+10. Check the functionality of  "Save" button at "Personal details" section
+11. Verify that "Driver's License Number" from "Personal Details" section accepts any type of letters and special characters 
+12. Verify that "License Expiry Date" accepts the format yyyy-mm-dd in "Personal details" section 
+13.  Verify that "Nationality" dropdown contains all the expected values
+14. 
 
  
 
