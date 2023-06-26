@@ -189,6 +189,6 @@ The list with bugs can be found here:
 [Bugs report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Bugs%20report.pdf) 
 
 ## 3.6 Test completion report 
- A number of 34 test cases were planned for execution and all of them were executed. After execution there were found 8 bugs.
+ A number of 34 test cases were planned for execution and all of them were executed. After execution there were found 8 bugs. The bugs found do not impact the launch of the product and they can be fixed later. All the functionalities in scope were coverd.
 
 ![Test Completion Report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Completion%20Report%201.png)
