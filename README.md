@@ -192,3 +192,33 @@ The list with bugs can be found here:
  A number of 34 test cases were planned for execution and all of them were executed. After execution there were found 8 bugs. The bugs found do not impact the launch of the product and they can be fixed later. All the functionalities in scope were coverd.
 
 ![Test Completion Report ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Test%20Completion%20Report%201.png)
+
+
+# SQL Section
+
+For  SQL section I created a database "Employee_OrangeHRM" with 4 (tabelas) tabels:
+
+•	PersonalDetails 
+
+•	Nationality 
+
+•	MaritalStatus
+
+•	BloodType
+
+•	Department
+
+In this SQL project I use the following interrogations:
+
+•	create, use, select * from, insert;
+
+•	update, alter table;
+
+•	where, limit, max, sum, group by, count, cross join;
+
+The SQL project can be found here: 
+
+[SQL database](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/Database_Employee_OrangeHRM.sql) 
+
+![Database Employee OrangeHRM ](https://github.com/ElenaBlejan/Proiect-Practic-Testare-Manuala/blob/main/diagram%20Employee_OrangeHRM.JPG)
+
