@@ -196,7 +196,7 @@ The list with bugs can be found here:
 
 # SQL Section
 
-For  SQL section I created a database "Employee_OrangeHRM" with 4 (tabelas) tabels:
+For SQL section I created the database "Employee_OrangeHRM" with 5 (tabelas) tabels:
 
 •	PersonalDetails 
 
@@ -208,7 +208,7 @@ For  SQL section I created a database "Employee_OrangeHRM" with 4 (tabelas) tabe
 
 •	Department
 
-In this SQL project I use the following interrogations:
+In this SQL project I use the following queries:
 
 •	create, use, select * from, insert;
 
