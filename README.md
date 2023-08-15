@@ -61,11 +61,12 @@ The below Story was created in JIRA and describes the functional specifications 
 ***Project risks:***
 > - lack of experience of the QA team
 > - only one QA in the QA team
-> - unavalability of the test environment
+> - unavailability of the test environment
 > - short deadline of Zephyr Squad and Jira tools
 
 ***Product risks:***
-> - validation constraints on the fields might be too restrictive to the end-user 
+> - the inability of the product to fulfill the requirements
+> - the inability of the product to meet the customer's expectations 
 
 ## 2.2 Test Analysis
 
